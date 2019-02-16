@@ -1,0 +1,20 @@
+{
+  "best_model": "output/best_model/model-10040",
+  "best_valid_ppl": 4.7220845222473145,
+  "encoding": "utf-8",
+  "latest_model": "output/save_model/model-10040",
+  "params": {
+    "batch_size": 20,
+    "dropout": 0.0,
+    "embedding_size": 0,
+    "hidden_size": 128,
+    "input_dropout": 0.0,
+    "learning_rate": 0.002,
+    "max_grad_norm": 5.0,
+    "model": "lstm",
+    "num_layers": 2,
+    "num_unrollings": 10,
+    "vocab_size": 65
+  },
+  "vocab_file": "output/vocab.json"
+}
