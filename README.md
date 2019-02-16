@@ -1,7 +1,7 @@
 # CSC766-p1
-##Code for project 1
+## Code for project 1
 
-###How to run the programs?
+### How to run the programs?
 
 * **Dictionary Learning**
 
@@ -12,6 +12,7 @@
 		
 		bash ./datasets/download_cyclegan_dataset.sh maps
 	* Command
+
 		python3 train.py --dataroot ./datasets/maps --name maps_cyclegan --model cycle_gan
 
 * **RBM**
