@@ -53,7 +53,7 @@ if __name__ == '__main__':
                     model.save_networks('latest')
 
             iter_data_time = time.time()
-        if epoch == 5:
+        if epoch == 4:
             print('saving the model at the end of epoch %d, iters %d' %
                   (epoch, total_steps))
             model.save_networks('latest')

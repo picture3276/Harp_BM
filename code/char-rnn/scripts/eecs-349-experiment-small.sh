@@ -7,4 +7,4 @@ python train.py \
        --batch_size=64 \
        --output_dir=small
 
-tensorboard --logdir=small/tensorboard_log/ --port=6006
+#tensorboard --logdir=small/tensorboard_log/ --port=6006
