@@ -1,6 +1,3 @@
-# CSC766-p1
-## Code for project 1
-
 ### How to run the programs?
 
 * **Dictionary Learning**
